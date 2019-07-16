@@ -1,0 +1,41 @@
+public class EJERCICIO3 {
+
+    
+    public static void main(String[] args) {
+        System.out.print("INGLES\t");
+        System.out.print("|\t");
+       
+        System.out.print("ESPAÑOL\n");
+        System.out.print("1.Red\t");
+         System.out.print("|\t");
+        System.out.print("Rojo\n");
+        System.out.print("2.Green\t");
+         System.out.print("|\t");
+        System.out.print("Verde\n");
+        System.out.print("3.Cat\t");
+         System.out.print("|\t");
+        System.out.print("Gato\n");
+        System.out.print("4.Dog\t");
+         System.out.print("|\t");
+        System.out.print("Perro\n");
+        System.out.print("5.Cow\t");
+         System.out.print("|\t");
+        System.out.print("Vaca\n");
+        System.out.print("6.Pink\t");
+         System.out.print("|\t");
+        System.out.print("Rosado\n");
+        System.out.print("7.Girl\t");
+         System.out.print("|\t");
+        System.out.print("Niña\n");
+        System.out.print("8.Boy\t");
+         System.out.print("|\t");
+        System.out.print("Niño\n");
+        System.out.print("9.Day\t");
+         System.out.print("|\t");
+        System.out.print("Dia\n");
+        System.out.print("10.Car\t");
+         System.out.print("|\t");
+        System.out.print("Carro\n");
+    }
+    
+}
