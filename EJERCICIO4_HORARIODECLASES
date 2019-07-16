@@ -1,0 +1,41 @@
+public class EJERCICIO4 {
+
+   
+    public static void main(String[] args) {
+        System.out.print("\t\tHorario de Clases \n");
+        System.out.print("\t\t     IV Ciclo \n");
+        System.out.print("\t\t    Sección A \n");
+        
+        System.out.print("\tCURSO\t\t");
+        System.out.print("|\t");
+        System.out.print("\tHORARIO\n");
+        System.out.print("-----------------------------------------------------\n");
+        System.out.print("Microeconomia\t\t");
+        System.out.print("|\t");
+        System.out.print("7:00 - 9:00 AM\n");
+        System.out.print("-----------------------------------------------------\n");
+        System.out.print("Programacion I\t\t");
+        System.out.print("|\t");
+        System.out.print("9:00 - 11:00 AM\n");
+        System.out.print("-----------------------------------------------------\n");
+        System.out.print("Cálculo I\t\t");
+        System.out.print("|\t");
+        System.out.print("11:00 AM - 1:00 PM\n");
+        System.out.print("-----------------------------------------------------\n");
+        System.out.print("Estadistica I\t\t");
+        System.out.print("|\t");
+        System.out.print("2:00 - 4:00 PM\n");
+        System.out.print("-----------------------------------------------------\n");
+        System.out.print("Fisica II\t\t");
+        System.out.print("|\t");
+        System.out.print("4:00 - 6:00 PM\n");
+        System.out.print("-----------------------------------------------------\n");
+        
+        
+        
+        
+        
+        
+    }
+    
+}
